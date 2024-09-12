@@ -134,7 +134,7 @@ const textNodes = [
   },
   {
     id: 8,
-    text: 'I would like to create a simulator open-world kind of game, a style like StarDew Valley with NPCs that have a simple behaviour like those ones in WorldBox but not entirely free behaviour to make it balanced. Still dont know what the purpose or goal of game it would be though.',
+    text: 'I would like to create a simulator open-world kind of game, a style like StarDew Valley with NPCs that have a simple behaviour like those ones in WorldBox but not entirely free behaviour to make it balanced. Still dont know what the purpose or goal of game it would be though. I actually have a lot of ideas for example, creating a tactical sport game kind of like FM24 except for different sports and stuff, and maybe learn more about AI development to create some sort of evolution AI program like those videos you see on youtube where people use videogames to simulate evolution.',
     options: [
       {
         text:'Go Back',
